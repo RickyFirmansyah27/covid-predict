@@ -4,3 +4,4 @@ pandas
 jcopml
 sklearn
 plotly
+openpyxl
